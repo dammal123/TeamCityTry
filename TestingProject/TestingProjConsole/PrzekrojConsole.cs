@@ -12,7 +12,7 @@ namespace PrzekrojDrogi
     public class PrzekrojConsole
     {
         
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             //size of picture
             int width = 0;
