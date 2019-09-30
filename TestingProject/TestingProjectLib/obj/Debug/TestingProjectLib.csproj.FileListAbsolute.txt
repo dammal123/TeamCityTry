@@ -1,0 +1,4 @@
+C:\VS\TestingProject\TestingProjectLib\bin\Debug\PrzekrojDrogiLib.dll
+C:\VS\TestingProject\TestingProjectLib\bin\Debug\PrzekrojDrogiLib.pdb
+C:\VS\TestingProject\TestingProjectLib\obj\Debug\PrzekrojDrogiLib.dll
+C:\VS\TestingProject\TestingProjectLib\obj\Debug\PrzekrojDrogiLib.pdb

@@ -1,0 +1,7 @@
+C:\VS\TestingProject\TestingProjConsole\bin\Debug\TestingProjConsole.exe
+C:\VS\TestingProject\TestingProjConsole\bin\Debug\TestingProjConsole.pdb
+C:\VS\TestingProject\TestingProjConsole\bin\Debug\TestingProjectLib.dll
+C:\VS\TestingProject\TestingProjConsole\bin\Debug\TestingProjectLib.pdb
+C:\VS\TestingProject\TestingProjConsole\obj\x86\Debug\TestingProjConsole.csprojResolveAssemblyReference.cache
+C:\VS\TestingProject\TestingProjConsole\obj\x86\Debug\TestingProjConsole.exe
+C:\VS\TestingProject\TestingProjConsole\obj\x86\Debug\TestingProjConsole.pdb

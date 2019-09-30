@@ -1,0 +1,7 @@
+C:\VS\TestingProject\TestingProjConsole\bin\Debug\PrzekrojDrogi.exe
+C:\VS\TestingProject\TestingProjConsole\bin\Debug\PrzekrojDrogi.pdb
+C:\VS\TestingProject\TestingProjConsole\bin\Debug\PrzekrojDrogiLib.dll
+C:\VS\TestingProject\TestingProjConsole\bin\Debug\PrzekrojDrogiLib.pdb
+C:\VS\TestingProject\TestingProjConsole\obj\x86\Debug\PrzekrojDrogi.csprojResolveAssemblyReference.cache
+C:\VS\TestingProject\TestingProjConsole\obj\x86\Debug\PrzekrojDrogi.exe
+C:\VS\TestingProject\TestingProjConsole\obj\x86\Debug\PrzekrojDrogi.pdb
