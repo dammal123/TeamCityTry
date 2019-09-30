@@ -27,7 +27,7 @@ namespace PrzekrojDrogi
             
             //instructions
             Console.WriteLine("\nInstruction:\n Arguments possible to set:\n 1. *.csv file to load data from.\n2. Width of the image.\n3. Height of the image.\n4. Border width of recantangles.\n5. Size of the font used.\nDefault values: (three predefined lists of elements), 2000, 700, 2.0, 16.0\n");
-
+            Console.ReadLine();
             // Using default values depending on amount of arguments from input
             if (args.Count() > 0) {
                 //loading list of elements from csv file
